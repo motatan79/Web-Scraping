@@ -1,0 +1,21 @@
+2022-05-18 07:13:35,737 :INFO :pytestDemo.test_logging :Information statement
+2022-05-18 07:13:35,737 :WARNING :pytestDemo.test_logging :Something is in warning mode
+2022-05-18 07:13:35,737 :ERROR :pytestDemo.test_logging :A Major error has happen
+2022-05-18 07:13:35,738 :CRITICAL :pytestDemo.test_logging :Critical issue
+2022-05-18 07:17:13,867 :DEBUG :pytestDemo.test_logging :A debug statement is executed
+2022-05-18 07:17:13,868 :INFO :pytestDemo.test_logging :Information statement
+2022-05-18 07:17:13,868 :WARNING :pytestDemo.test_logging :Something is in warning mode
+2022-05-18 07:17:13,868 :ERROR :pytestDemo.test_logging :A Major error has happen
+2022-05-18 07:17:13,868 :CRITICAL :pytestDemo.test_logging :Critical issue
+2022-05-18 07:17:48,785 :CRITICAL :pytestDemo.test_logging :Critical issue
+2022-05-18 07:48:40,501 :INFO :pytestDemo.BaseClass :Moises
+2022-05-18 07:48:40,501 :INFO :pytestDemo.BaseClass :rahulshettyacademy.com
+2022-05-18 07:52:08,412 :INFO :test_editProfile :Moises
+2022-05-18 07:52:08,412 :INFO :test_editProfile :rahulshettyacademy.com
+2022-05-18 07:54:16,697 :INFO :test_editProfile :Moises
+2022-05-18 07:54:16,698 :INFO :test_editProfile :rahulshettyacademy.com
+2022-05-18 07:54:16,705 :CRITICAL :pytestDemo.test_logging :Critical issue
+2022-05-18 07:57:56,579 :INFO :test_editProfile :Moises
+2022-05-18 07:57:56,579 :INFO :test_editProfile :rahulshettyacademy.com
+2022-05-18 07:59:48,255 :INFO :test_editProfile :Moises
+2022-05-18 07:59:48,256 :INFO :test_editProfile :rahulshettyacademy.com
